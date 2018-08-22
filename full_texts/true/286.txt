@@ -1,0 +1,26 @@
+A Microsoft ‘vira a chave’ para a nuvem
+Quatro anos após mudar de rumo, gigante alcança US$ 20 bi em receita no setor e aposta em inteligência artificial para construir seu futuro
+
+“Nossa indústria não respeita a tradição, ela só respeita a inovação”, escreveu o indiano Satya Nadella, em seu primeiro e-mail aos funcionários da Microsoft, poucas horas após ser anunciado como presidente executivo da empresa, em fevereiro de 2014. Naquele momento, um dos mais dramáticos da história da companhia, o executivo tentava motivar a equipe a transformar uma perdedora nos smartphones em uma potência em computação em nuvem. Hoje, quase quatro anos depois, a visão de Nadella está perto de se concretizar.
+
+Queridinho de Bill Gates, Nadella foi o escolhido para conduzir a Microsoft para a nuvem. O executivo comandava a divisão de serviços de nuvem para empresas, que gerava US$ 4,4 bilhões anuais em receita. Pouco depois de assumir a liderança, ele divulgou uma meta ambiciosa: queria alcançar uma receita de US$ 20 bilhões anuais com serviços na nuvem até o fim de 2018. O resultado chegou, mas não na data esperada.
+
+“Conseguimos bater a meta um ano antes do previsto”, conta a presidente da Microsoft Brasil, Paula Bellizia, em entrevista exclusiva ao Estado. “Passamos de uma empresa de softwares empacotados a uma plataforma de serviços na nuvem.”
+
+Os números mostram que a Microsoft vai bem. Só no último trimestre, a receita com o Office 365 – pacote de aplicativos que inclui o Word e o Excel e é vendido a empresas por meio de assinatura – cresceu 42%. O software para empresas, chamado de Dynamics, registrou alta de 69% no faturamento em relação a igual período do ano anterior. A plataforma Azure, que está no centro da estratégia de nuvem da companhia, também cresceu 90% em receita. O conjunto ajudou a gigante do software a aumentar sua receita total em 12%, alcançando US$ 24,5 bilhões no 1o trimestre do ano fiscal de 2018.
+
+“A estratégia da Microsoft está na direção correta e Nadella é um executivo de visão”, afirma Fernando Meirelles, professor da Escola de Administração de Empresas da Fundação Getúlio Vargas (FGV-SP). “Antes, a Microsoft tinha receita quase zero com serviços.”
+
+Pedras. O caminho da Microsoft seria fácil, não fosse a quantidade de gigantes de olho no lucrativo mercado de computação em nuvem. De acordo com a consultoria IDC, esse segmento deve alcançar uma receita de US$ 554 bilhões em 2021. O valor representa mais que o dobro do valor registrado em 2016.
+
+“No Brasil, o mercado de computação em nuvem vem crescendo a uma taxa de 20% ao ano”, diz o gerente de consultoria e pesquisa de infraestrutura e telecom da IDC Brasil, Pietro Delai. “No segmento de infraestrutura como serviço, que libera as empresas de investirem de forma antecipada, o aumento chega a 40%.”
+
+As rivais da Microsoft têm peso: forte em infraestrutura, a Amazon Web Services (AWS) – divisão de computação em nuvem da gigante do e-commerce de mesmo nome, é líder global no segmento. Há ainda a veterana IBM e o gigante das buscas Google. Cada empresa tem uma estratégia diferente, mas todas elas tentam garantir uma fatia do promissor mercado.
+
+“Só neste início de ano, tivemos anúncios da instalação de cinco data centers no Brasil, o que é um indicativo do ritmo de adoção da nuvem”, diz Delai.
+
+Para se diferenciar dos rivais, Nadella resolveu apostar na próxima fronteira da tecnologia. “Queremos ser a empresa que vai democratizar a inteligência artificial”, diz Paula. “Mas a Microsoft não vai fazer tudo sozinha: temos um ecossistema de 140 mil desenvolvedores certificados para criar sistemas com nossas tecnologias.”
+
+Para Meirelles, o grande feito de Nadella é estar de olho na evolução da computação em nuvem, a chamada computação de borda (edge computing, em inglês). Segundo especialistas, ela vai “dissolver” a nuvem tradicional e processar as informações de forma distribuída, mais perto dos dispositivos onde os dados são gerados. “A Amazon tem uma estratégia melhor para nuvem tradicional”, diz o professor da FGV-SP. “Mas, a partir de agora, quem tiver a melhor inteligência artificial é que vai ganhar a batalha.”
+
+Nos últimos meses, Microsoft e as rivais correm contra o tempo para aprimorar a tecnologia. Mas, assim como num dia nublado, ainda é difícil enxergar quem sairá vitorioso.

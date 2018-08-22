@@ -1,0 +1,33 @@
+Turbulência arrecadatória na Lava Jato
+
+Os números envolvendo a Operação Lava Jato são superlativos: apenas no Paraná, em pouco mais de três anos desde sua deflagração, foram oferecidas 67 denúncias contra 282 pessoas; proferidas 165 decisões condenatórias, que totalizam 1634 anos de pena; formulados 303 pedidos de cooperação internacional; e firmados 178 acordos de colaboração premiada e 10 acordos de leniência.
+
+Os valores também chamam atenção: mais de 10 bilhões de reais, apurados apenas nos acordos de colaboração premial, são alvo de processos de recuperação, dos quais 3,2 bilhões já foram bloqueados. O destino desses valores é diverso: parte é restituído às vítimas, sendo a Petrobras a principal delas; outra parcela abastece os cofres da União; e pleiteia-se, até, que algum montante seja reinvestido na própria investigação.
+
+De olho nas vultosas quantias, a Receita Federal também quis garantir o seu quinhão. Passou, então, a instaurar procedimentos fiscais cobrando imposto de renda e multa de 150% sobre o montante devolvido por delatores e lenientes. Já foram autuados mais de 100 contribuintes, dos quais são cobrados quase 10 bilhões de reais.
+
+Mas seria permitido, à luz dos princípios e institutos do direito, a tributação de valores oriundos de caixa dois e crimes como lavagem de dinheiro ou corrupção?
+
+A Receita Federal afirma que sim. Os artigos 43 e 118 do Código Tributário Nacional (CTN) estabelecem que é devido imposto de renda sobre proventos de qualquer natureza, independentemente da validade jurídica dos atos praticados pelos contribuintes, bem como da natureza do seu objeto ou de seus efeitos. É a expressão do famoso princípio do pecunia non olet: diante da ocorrência do fato gerador, haverá incidência tributária, pouco importando a natureza da atividade.
+
+Ademais, argumentam, não há, na Lei Anticorrupção ou na Lei de Organização Criminosa, qualquer dispositivo que afaste a responsabilização civil ou tributária do delator ou leniente, que seriam agraciados somente com benefícios na esfera penal. A renúncia de receita por parte de qualquer ente público demandaria previsão expressa nesse sentido, como, ocorreu, por exemplo, com a lei de repatriação de valores mantidos ilegalmente no exterior.
+
+Tais argumentos merecem ser avaliados com cautela e a nosso ver não admitem generalização.
+
+Se é verdade que a definição legal do fato gerador é interpretada abstraindo-se da validade jurídica dos atos efetivamente praticados, bem como da natureza do seu objeto ou dos seus efeitos (art. 118, CTN), não é menos verdadeiro que o art. 3o do CTN é expresso em determinar que tributo não pode constituir sanção de ato ilícito.
+
+Precedentes jurisprudenciais diferenciam as hipóteses em que a ilicitude é circunstância periférica à norma de tributação daquela em que é elemento central, para concluir que, embora a regra de tributação possa atingir o produto patrimonial de uma atividade ilícita, ela não pode tomar como hipótese para a incidência do tributo uma atividade ilícita (STJ, Resp. 2014/0169133-5). O exemplo citado é o tráfico de drogas – o produto do ilícito (renda auferida) pode ser tributado pelo Imposto de Renda porque o fato gerador desse imposto é auferir renda (atividade lícita), mas a venda de drogas não pode ser tributada pelo ICMS, porque o fato gerador desse imposto é ato lícito.
+
+Aliás, essa distinção justamente serve de base à pacífica jurisprudência – inclusive no âmbito do CARF – a respeito da impossibilidade de incidência simultânea de tributos sobre a importação e aplicação de pena de perdimento de mercadoria importada. Se o importador cometeu algum ato ilícito que o sujeite à pena de perdimento da mercadoria, ou à multa em seu valor equivalente, é porque não poderia importá-la. Se não poderia importar a mercadoria e cometeu um ilícito, a pena é devida, mas não os tributos sobre a importação, justamente porque o ato de importar não foi um ato lícito.
+
+Os acordos de delação e leniência geralmente envolvem a devolução do produto das infrações penais praticadas – espontaneamente ou após a decretação de seu perdimento. Assim, o agente não é mais detentor da disponibilidade econômica ou jurídica sobre aqueles valores.
+
+Portanto, há que se identificar, caso a caso, se tais montantes seriam passíveis de tributação pela caracterização efetiva do fato gerador do imposto de renda, inclusive à luz da garantia constitucional do não confisco. A hipótese do perdimento de mercadorias – ou substituição por pena pecuniária – bem revela a distinção entre sanção por ato ilícito e incidência de tributo, e esta última necessariamente deve ter por fato gerador uma atividade lícita.
+
+A isso se alie a necessidade de identificar o termo inicial do prazo de cinco anos para cobrança do crédito tributário que, nos termos da lei, em se tratando de alegação de sonegação fiscal, tem início no primeiro dia do exercício seguinte ao fato gerador do imposto de renda, que é anual.
+
+Muitos contribuintes já se insurgem contra a cobrança e a questão, segundo nos parece, está longe de ter a simplicidade defendida pela Receita.
+
+*Fernanda de Almeida Carneiro, criminalista e professora do curso de pós-graduação de Direito Penal Econômico do IDP-São Paulo
+
+*Daniella Zagari, tributarista e sócia do escritório Machado Meyer
