@@ -1,4 +1,5 @@
 # Fake.Br Corpus
+[![tag](http://oi65.tinypic.com/jjbiht.jpg)](http://nilc.icmc.usp.br/nilc/index.php)
 
 Hello! Thank you for using our corpus!
 
@@ -42,4 +43,6 @@ Here you may find 2 folders, with two versions of the same corpus:
 
  - ``size_normalized_texts`` folder, which contains the truncated texts, where, in each fake-true pair, the longer text is truncated (in number of words) to the size of the shorter text. This version of the corpus may be useful for avoiding bias in machine learning experiments.
 
-Finally, if you use our corpus, please include a citation to our project website and the corresponding paper published in PROPOR 2018 conference (soon).
+Finally, if you use our corpus, please include a citation to our project website and the corresponding paper published in PROPOR 2018 conference:
+
+Monteiro R.A., Santos R.L.S., Pardo T.A.S., de Almeida T.A., Ruiz E.E.S., Vale O.A. (2018) Contributions to the Study of Fake News in Portuguese: New Corpus and Automatic Detection Results. In: Villavicencio A. et al. (eds) Computational Processing of the Portuguese Language. PROPOR 2018. Lecture Notes in Computer Science, vol 11122. Springer, Cham
