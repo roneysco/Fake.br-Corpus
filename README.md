@@ -31,6 +31,7 @@ Here you may find 2 folders, with two versions of the same corpus:
 		number of modal verbs (mainly auxiliary verbs)
 		number of singular first and second personal pronouns
 		number of plural first personal pronouns
+		number of pronouns
 		pausality
 		number of characters
 		average sentence length
