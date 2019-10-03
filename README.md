@@ -1,5 +1,5 @@
 # Fake.Br Corpus
-[![tag](http://oi65.tinypic.com/jjbiht.jpg)](http://nilc.icmc.usp.br/nilc/index.php)
+[![tag](https://i.imgur.com/ZhZ9Mw7.png)](http://nilc.icmc.usp.br/nilc/index.php)
 
 Hello! Thank you for using our corpus!
 
