@@ -3,7 +3,7 @@
 
 Hello! Thank you for using our corpus!
 
-Here you may find 2 folders, with two versions of the same corpus:
+Here you may find 3 folders, with two of them containing versions of the same corpus:
 
  - ``full_texts`` folder, which contains the full texts, as collected from their websites. Inside this folder, there are 4 more folders:
 
@@ -43,6 +43,8 @@ Here you may find 2 folders, with two versions of the same corpus:
    To find the aligned true and fake news pairs is very simple, as they are equally numbered/named inside their folders.
 
  - ``size_normalized_texts`` folder, which contains the truncated texts, where, in each fake-true pair, the longer text is truncated (in number of words) to the size of the shorter text. This version of the corpus may be useful for avoiding bias in machine learning experiments.
+ 
+ - ``preprocessed`` folder, which contains a CSV file containing news label and pre-processed news text, such as removed portuguese stopwords, accent and diacritic (text normalization, contribution by @GuilhermeZaniniMoreira)
 
 Finally, if you use our corpus, please include a citation to our project website and the corresponding paper published in PROPOR 2018 conference:
 
